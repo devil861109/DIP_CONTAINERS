@@ -1,0 +1,5 @@
+com/example/mongodbdemo/controller/UserController.class
+com/example/mongodbdemo/repository/UserRepository.class
+com/example/mongodbdemo/domain/User.class
+com/example/mongodbdemo/service/UserService.class
+com/example/mongodbdemo/MongodbdemoApplication.class
